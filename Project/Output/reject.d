@@ -1,0 +1,14 @@
+.\output\reject.o: ..\User\bacnet\src\reject.c
+.\output\reject.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stdint.h
+.\output\reject.o: ..\User\bacnet\include\bacenum.h
+.\output\reject.o: ..\User\bacnet\include\bacdcode.h
+.\output\reject.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stdbool.h
+.\output\reject.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stddef.h
+.\output\reject.o: ..\User\bacnet\include\bacdef.h
+.\output\reject.o: ..\User\bacnet\include\config.h
+.\output\reject.o: ..\User\bacnet\include\datetime.h
+.\output\reject.o: ..\User\bacnet\include\bacstr.h
+.\output\reject.o: ..\User\bacnet\include\bacint.h
+.\output\reject.o: ..\User\bacnet\include\bacreal.h
+.\output\reject.o: ..\User\bacnet\include\bits.h
+.\output\reject.o: ..\User\bacnet\include\reject.h

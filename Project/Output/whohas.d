@@ -1,0 +1,14 @@
+.\output\whohas.o: ..\User\bacnet\src\whohas.c
+.\output\whohas.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stdint.h
+.\output\whohas.o: ..\User\bacnet\include\bacenum.h
+.\output\whohas.o: ..\User\bacnet\include\bacdcode.h
+.\output\whohas.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stdbool.h
+.\output\whohas.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stddef.h
+.\output\whohas.o: ..\User\bacnet\include\bacdef.h
+.\output\whohas.o: ..\User\bacnet\include\config.h
+.\output\whohas.o: ..\User\bacnet\include\datetime.h
+.\output\whohas.o: ..\User\bacnet\include\bacstr.h
+.\output\whohas.o: ..\User\bacnet\include\bacint.h
+.\output\whohas.o: ..\User\bacnet\include\bacreal.h
+.\output\whohas.o: ..\User\bacnet\include\bits.h
+.\output\whohas.o: ..\User\bacnet\include\whohas.h

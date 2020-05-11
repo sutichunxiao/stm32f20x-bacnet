@@ -1,0 +1,16 @@
+.\output\wp.o: ..\User\bacnet\src\wp.c
+.\output\wp.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stdint.h
+.\output\wp.o: ..\User\bacnet\include\bacenum.h
+.\output\wp.o: ..\User\bacnet\include\bacdcode.h
+.\output\wp.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stdbool.h
+.\output\wp.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stddef.h
+.\output\wp.o: ..\User\bacnet\include\bacdef.h
+.\output\wp.o: ..\User\bacnet\include\config.h
+.\output\wp.o: ..\User\bacnet\include\datetime.h
+.\output\wp.o: ..\User\bacnet\include\bacstr.h
+.\output\wp.o: ..\User\bacnet\include\bacint.h
+.\output\wp.o: ..\User\bacnet\include\bacreal.h
+.\output\wp.o: ..\User\bacnet\include\bits.h
+.\output\wp.o: ..\User\bacnet\include\wp.h
+.\output\wp.o: ..\User\bacnet\include\bacapp.h
+.\output\wp.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stdio.h

@@ -1,0 +1,14 @@
+.\output\ihave.o: ..\User\bacnet\src\ihave.c
+.\output\ihave.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stdint.h
+.\output\ihave.o: ..\User\bacnet\include\bacenum.h
+.\output\ihave.o: ..\User\bacnet\include\bacdcode.h
+.\output\ihave.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stdbool.h
+.\output\ihave.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stddef.h
+.\output\ihave.o: ..\User\bacnet\include\bacdef.h
+.\output\ihave.o: ..\User\bacnet\include\config.h
+.\output\ihave.o: ..\User\bacnet\include\datetime.h
+.\output\ihave.o: ..\User\bacnet\include\bacstr.h
+.\output\ihave.o: ..\User\bacnet\include\bacint.h
+.\output\ihave.o: ..\User\bacnet\include\bacreal.h
+.\output\ihave.o: ..\User\bacnet\include\bits.h
+.\output\ihave.o: ..\User\bacnet\include\ihave.h

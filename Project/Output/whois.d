@@ -1,0 +1,14 @@
+.\output\whois.o: ..\User\bacnet\src\whois.c
+.\output\whois.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stdint.h
+.\output\whois.o: ..\User\bacnet\include\bacenum.h
+.\output\whois.o: ..\User\bacnet\include\bacdcode.h
+.\output\whois.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stdbool.h
+.\output\whois.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stddef.h
+.\output\whois.o: ..\User\bacnet\include\bacdef.h
+.\output\whois.o: ..\User\bacnet\include\config.h
+.\output\whois.o: ..\User\bacnet\include\datetime.h
+.\output\whois.o: ..\User\bacnet\include\bacstr.h
+.\output\whois.o: ..\User\bacnet\include\bacint.h
+.\output\whois.o: ..\User\bacnet\include\bacreal.h
+.\output\whois.o: ..\User\bacnet\include\bits.h
+.\output\whois.o: ..\User\bacnet\include\whois.h

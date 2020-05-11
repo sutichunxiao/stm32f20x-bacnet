@@ -1,0 +1,14 @@
+.\output\abort.o: ..\User\bacnet\src\abort.c
+.\output\abort.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stdint.h
+.\output\abort.o: ..\User\bacnet\include\bacenum.h
+.\output\abort.o: ..\User\bacnet\include\bacdcode.h
+.\output\abort.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stdbool.h
+.\output\abort.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stddef.h
+.\output\abort.o: ..\User\bacnet\include\bacdef.h
+.\output\abort.o: ..\User\bacnet\include\config.h
+.\output\abort.o: ..\User\bacnet\include\datetime.h
+.\output\abort.o: ..\User\bacnet\include\bacstr.h
+.\output\abort.o: ..\User\bacnet\include\bacint.h
+.\output\abort.o: ..\User\bacnet\include\bacreal.h
+.\output\abort.o: ..\User\bacnet\include\bits.h
+.\output\abort.o: ..\User\bacnet\include\abort.h

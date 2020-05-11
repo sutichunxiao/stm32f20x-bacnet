@@ -1,0 +1,15 @@
+.\output\npdu.o: ..\User\bacnet\src\npdu.c
+.\output\npdu.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stdbool.h
+.\output\npdu.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stdint.h
+.\output\npdu.o: ..\User\bacnet\include\bacdef.h
+.\output\npdu.o: D:\ProgramData\ARM\ARMCC\bin\..\include\stddef.h
+.\output\npdu.o: ..\User\bacnet\include\bacenum.h
+.\output\npdu.o: ..\User\bacnet\include\config.h
+.\output\npdu.o: ..\User\bacnet\include\bacdcode.h
+.\output\npdu.o: ..\User\bacnet\include\datetime.h
+.\output\npdu.o: ..\User\bacnet\include\bacstr.h
+.\output\npdu.o: ..\User\bacnet\include\bacint.h
+.\output\npdu.o: ..\User\bacnet\include\bacreal.h
+.\output\npdu.o: ..\User\bacnet\include\bits.h
+.\output\npdu.o: ..\User\bacnet\include\npdu.h
+.\output\npdu.o: ..\User\bacnet\include\apdu.h
